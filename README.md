@@ -14,5 +14,5 @@ Required Ubuntu package
 sudo apt-get install speedtest-cli
 ```
 
-A working bot based on this project can be found at https://twitter.com/bsnl_customer
+
 # twitter_complain
